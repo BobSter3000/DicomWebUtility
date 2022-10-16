@@ -7,3 +7,4 @@ Bob's DICOM Tools DicomWeb Utility
 * v5.9.2 - Update to Squirrel v3
 * v5.9.3 - Sign exe only
 * v5.9.4 - Removed Desktop shorcut from install
+* v5.9.5 - Fixed About box
