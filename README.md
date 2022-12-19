@@ -9,3 +9,4 @@ Bob's DICOM Tools DicomWeb Utility
 * v5.9.4 - Removed Desktop shorcut from install
 * v5.9.5 - Fixed About box
 * v5.9.6 - About box round 2
+* v5.9.7 - Added Desktop Icon
